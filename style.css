@@ -1,5 +1,10 @@
+@font-face {
+    font-family: "Comic Sans MS";
+    src: url("font.ttf");
+}
+
 body {
-    font-family: Comic Sans MS, sans-serif;
+    font-family: Comic Sans MS;
     color:rgb(0, 0, 0);
     background-image: url(bg.jpg);
     background-repeat: repeat;
